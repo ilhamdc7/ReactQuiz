@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "What is the highest mountain in Britain?",
+      "correct_answer": "Santiago",
+      "options": [
+        "Santiago",
+        " Vatican City",
+        "Madrid",
+        "Baku"
+      ],
+      "score": "15",
+      "timeout": "9",
+      "id": 1
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "correct_answer": "Ben Nevis",
+      "options": [
+        "Singapore",
+        "Ben Nevis",
+        "Russia",
+        "Sweeden"
+      ],
+      "score": "30",
+      "timeout": "10",
+      "id": 2
+    },
+    {
+      "question": "Alberta is a province of which country?",
+      "correct_answer": "Canada",
+      "options": [
+        "USA",
+        "Russia",
+        "Uganda",
+        "Canada"
+      ],
+      "score": "50",
+      "timeout": "25",
+      "id": 3
+    },
+    {
+      "question": "test1 edited",
+      "correct_answer": "teest3",
+      "options": [
+        "test1",
+        "test2",
+        "teest3",
+        "test 4"
+      ],
+      "score": "20",
+      "timeout": "15",
+      "id": 5
+    }
+  ]
+}

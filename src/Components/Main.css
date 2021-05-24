@@ -1,0 +1,381 @@
+.container1{
+    width: 100%;
+    height: 600px;
+    
+}
+
+.newQuestion{
+    width: 100%;
+    height: 40px;
+    
+}
+
+.addNewQuestion{
+    width: 10%;
+    height: 40px;
+    float: right;
+    background-color: rgba(187, 6, 6, 0.747);
+    border-radius: 15px;
+    color: white;
+    font-size: small;
+    font-weight: 700;
+    cursor: pointer;
+    outline-style: none;
+}
+
+.goCompetition{
+    width: 10%;
+    height: 40px;
+    float: left;
+    background-color: rgba(14, 12, 146, 0.705);
+    border-radius: 15px;
+    color: white;
+    font-size: small;
+    font-weight: 700;
+    cursor: pointer;
+    outline-style: none;
+}
+
+.table1{
+    width: 100%;
+    height: auto;
+    border: tomato solid;
+    margin-top: 3%;
+}
+
+
+.questionHeader{
+    width: 100%;
+    height: 60px;
+    border-bottom: black solid;
+    display: flex;
+    background-color: rgb(187, 187, 187);
+}
+
+
+.question1{
+    width: 25%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    border-right: black solid;
+    justify-content: center;
+}
+
+.answerHeader{
+    width: 15%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    border-right: black solid;
+    justify-content: center;
+}
+
+.timeOut{
+    width: 15%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    border-right: black solid;
+    justify-content: center;
+}
+
+
+
+.questionScore{
+    width: 15%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    border-right: black solid;
+    justify-content: center;
+}
+
+
+.createDate{
+    width: 15%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    border-right: black solid;
+    justify-content: center;
+}
+
+
+.operations{
+    width: 15%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    border-right: black solid;
+    justify-content: center;
+}
+
+.specificationHeader{
+    width: 100%;
+    height: 60px;
+    border-bottom: black solid;
+    display: flex;
+    
+}
+
+.editQuestion{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.editButton{
+    width: 80%;
+    height: 60%;
+    background-color: yellow;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.deleteQuestion{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.deleteButton{
+    width: 80%;
+    height: 60%;
+    background-color: rgb(255, 72, 0);
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.modal19{
+    width: 80%;
+    height: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(192, 181, 181);
+}
+
+
+
+.modalHeader{
+    width: 100%;
+    height: 60px;
+    border-bottom: grey 1px solid;
+}
+
+
+.modalTitle{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+.modalTitleSpan{
+    font-size: 25px;
+}
+
+.modalClose{
+    width: 10%;
+    height: 100%;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalCloseButton{
+    width: 80%;
+    height: 60%;
+    border-radius: 15px;
+    background-color: red;
+    font-size: 17px;
+    color: white;
+    cursor: pointer;
+    outline-style: none;
+}
+
+.modalCloseButton:hover{
+    transition: 0.5s;
+    background-color: rgb(110, 9, 9);
+}
+
+.questionTitle1{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px grey solid;
+    margin-bottom: 300px;
+}
+
+.question2{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    
+    align-items: center;
+}
+
+.question2Span{
+    font-size: 25px;
+    margin-left: 5%;
+}
+
+.questionInput{
+    width: 80%;
+    height: 40px;
+    margin-left: 5%;
+    outline-style: none;
+}
+
+
+.answerContainer1{
+    width: 100%;
+    height: 170px;
+    border-bottom: grey 1px solid;
+    margin-top: -300px;
+}
+
+
+.pushed{
+    
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-left: 30%;
+    text-align: center;
+    justify-content: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.options{
+    width: 100%;
+    height: 40px;
+    
+    display: flex;
+    align-items: center;
+}
+
+.optionsSpan{
+    margin-left: 5%;
+    font-size: 25px;
+}
+
+.optionsContainer{
+    width: 100%;
+    height: 130px;
+    
+    display: flex;
+    
+    align-items: center;
+}
+
+
+.optionsInput{
+    width: 30%;
+    height: 25px;
+    margin-left: 1.7%;
+    outline-style: none;
+    
+}
+
+.options2{
+    width: 100%;
+    height: 200px;
+   
+    margin-top: -90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu1{
+    width: 30%;
+    height: 150px;
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2%;
+}
+
+.menu1Header{
+    width: 100%;
+    height: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu1Span{
+    font-size: 20px;
+}
+
+
+.menu1InputContainer{
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu1Input{
+    width: 100%;
+    height: 35px;
+}
+
+.buttonContainer1{
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+}
+
+.clear1{
+    width: 50%;
+    height: 40%;
+    float: right;
+    border-radius: 15px;
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+}
+
+.save1{
+    width: 50%;
+    height: 40%;
+    float: right;
+    border-radius: 15px;
+    background-color: green;
+    cursor: pointer;
+    margin-left: 2%;
+    color: white;
+    font-size: 20px;
+}
